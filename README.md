@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ananya</h1>
-<h3 align="center">B.Tech Computer Science Student | Java Learner | Future Software Developer</h3>
+<h3 align="center">B.Tech Computer Science Student | Java Developer | Future Software Engineer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Java%20Developer;B.Tech%20CSE%20Student;Learning%20Data%20Structures;Web%20Development%20Learner&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Java%20Developer;B.Tech%20CSE%20Student;Learning%20Data%20Structures;Web%20Development%20Learner;Future%20Software%20Engineer&center=true&width=500&height=45">
 </p>
 
 ---
@@ -20,7 +20,7 @@
 ## 🚀 Languages and Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,html,css,js,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=java,c++,python,html,css,js,git,github,vscode," />
 </p>
 
 ---
@@ -28,11 +28,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ananyarajak&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananyarajak&layout=compact&theme=tokyonight"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=Ananyarajak&show_icons=true&theme=tokyonight"/>
 </p>
 
 ---
@@ -40,7 +36,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?username=Ananyarajak&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com/?user=Ananyarajak&theme=tokyonight"/>
 </p>
 
 ---
@@ -63,8 +59,16 @@
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: https://www.linkedin.com/in/ananya-rajak-7804a130b
-* 📧 Email: ananyarajak374@gmail.com
+<p>
+<a href="https://www.linkedin.com/in/ananya-rajak-7804a130b">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:ananyarajak374@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+</a>
+</p>
 
 ---
+
 
