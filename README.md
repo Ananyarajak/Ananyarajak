@@ -27,7 +27,7 @@
 ### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,c,c++,python," />
+<img src="https://skillicons.dev/icons?i=java,c,python,sql" />
 </p>
 
 ### 🌐 Web Development
