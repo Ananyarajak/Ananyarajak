@@ -27,7 +27,7 @@
 ### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,c,js" />
+<img src="https://skillicons.dev/icons?i=java,c,c++,python," />
 </p>
 
 ### 🌐 Web Development
@@ -39,7 +39,7 @@
 ### ⚙️ Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linkdin" />
 </p>
 
 ### 📚 Core Concepts
