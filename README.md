@@ -90,7 +90,7 @@
 
 <p>
 <a href="https://github.com/Ananyarajak">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github">
 </a>
 
 <a href="mailto:ananyarajak374@gmail.com">
