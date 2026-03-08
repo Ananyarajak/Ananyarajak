@@ -56,18 +56,6 @@
 * Currently building my project portfolio.
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ananyarajak&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananyarajak&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -84,21 +72,6 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Ananyarajak&theme=tokyonight&row=1&column=6"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Ananyarajak/Ananyarajak/output/github-contribution-grid-snake.svg">
-</p>
-
----
 
 # ✨ Developer Quote
 
@@ -112,6 +85,11 @@
 
 <p>
 <a href="https://www.linkedin.com/in/ananya-rajak-7804a130b">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<p>
+<a href="https://github.com/Ananyarajak">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
 
