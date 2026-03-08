@@ -40,7 +40,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Ananyarajak&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?username=Ananyarajak&theme=tokyonight"/>
 </p>
 
 ---
