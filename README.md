@@ -92,7 +92,8 @@
 <a href="https://github.com/Ananyarajak">
 <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github">
 </a>
-
+  
+<p>
 <a href="mailto:ananyarajak374@gmail.com">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
 </a>
