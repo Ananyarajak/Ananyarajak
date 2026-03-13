@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ananya</h1>
+<h1 align="center">Hi 👋, I'm ANANYA RAJAK</h1>
 <h3 align="center">B.Tech Computer Science Student | Java Developer | Future Software Engineer</h3>
 
 <p align="center">
