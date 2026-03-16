@@ -71,7 +71,11 @@
 </p>
 
 ---
+## 💻 LeetCode
 
+🔗 Profile: https://leetcode.com/ananya_rajak/
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/ananya_rajak?theme=light&ext=heatmap)
 
 # ✨ Developer Quote
 
