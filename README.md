@@ -107,6 +107,12 @@
 </a>
 </p>
 
+<p>
+<a href="https://LeetCode.com/ananya_rajak">
+<img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=LeetCode">
+</a>
+  
+<p>
 ---
 
 ⭐ **If you like my repositories, consider giving them a star!**
