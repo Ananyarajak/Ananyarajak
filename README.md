@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ananya Rajak</h1>
-<h3 align="center">B.Tech Computer Science Student | Java Developer | Future Software Engineer</h3>
+<h3 align="center"> Java Developer | data Science learner | Future Software Engineer</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Java%20Developer;B.Tech%20CSE%20Student;Learning%20Data%20Structures;Web%20Development%20Learner;Future%20Software%20Engineer&center=true&width=520&height=45">
