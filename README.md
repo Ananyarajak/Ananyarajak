@@ -44,6 +44,7 @@
 * Data Structures & Algorithms
 * Problem Solving
 * Basic Web Development
+* data analytics
 
 ---
 
