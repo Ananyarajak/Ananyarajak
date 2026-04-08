@@ -2,7 +2,7 @@
 <h3 align="center"> Java Developer | data Science learner | Future Software Engineer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Java%20Developer;B.Tech%20CSE%20Student;Learning%20Data%20Structures;Web%20Development%20Learner;Future%20Software%20Engineer&center=true&width=520&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Java%20Developer;B.Tech%20CSE%20Student;Learning%20Data%20Structures;Web%20Development%20Learner;web%20Developer&center=true&width=520&height=45">
 </p>
 
 ---
@@ -10,11 +10,11 @@
 ## 👩‍💻 About Me
 
 * 🎓 B.Tech Computer Science Student
-* 💻 Passionate about **Programming & Software Development**
-* 🌱 Currently learning **Java, Python,Data Structures, data science and Web Development**
+* 💻 Passionate about **Programming & Web Development**
+* 🌱 Currently learning **Java, Python,Data Structures, data science and frontend Development**
 * 🚀 Interested in **Open Source Projects**
 * 📚 Improving **Problem Solving Skills**
-* 🎯 Goal: Become a **Skilled Software Developer**
+* 🎯 Goal: Become a **Skilled Web Developer**
 
 ---
 
