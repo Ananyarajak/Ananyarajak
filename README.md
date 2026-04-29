@@ -11,7 +11,7 @@
 
 * 🎓 B.Tech Computer Science Student
 * 💻 Passionate about **Programming & Web Development**
-* 🌱 Currently learning **Java, Python,Data Structures, data science and frontend Development**
+* 🌱 Currently learning **Java,Python,Data Structures, data science and frontend Development**
 * 🚀 Interested in **Open Source Projects**
 * 📚 Improving **Problem Solving Skills**
 * 🎯 Goal: Become a **Skilled Web Developer**
