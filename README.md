@@ -56,7 +56,7 @@
 # 🔥 GitHub Streak
 
 <p align="center">
-![GitHub Streak](https://streak-stats.demolab.com?user=ananya123&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Ananyarajak&theme=tokyonight&hide_border=true)
 </p>
 ---
 
