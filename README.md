@@ -63,7 +63,7 @@
 # 📈 GitHub Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ananya123&theme=tokyo-night)](https://github.com/ananya123"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ananyarajak&theme=tokyo-night)](https://github.com/Ananyarajak"/>
 </p>
 
 ---
