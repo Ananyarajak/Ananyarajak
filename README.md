@@ -56,6 +56,11 @@
 # 🔥 GitHub Streak
 
 <p align="center">
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+  
+## 📈 Contribution Graph
+
+[![Ananya's github activity graph][Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 <img src="https://streak-stats.demolab.com/?user=Ananyarajak&theme=tokyonight"/>
 </p>
 
