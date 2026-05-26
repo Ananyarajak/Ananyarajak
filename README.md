@@ -10,7 +10,7 @@
 ## 👩‍💻 About Me
 
 * 🎓 B.Tech Computer Science Student
-* 💻 Passionate about **Programming & Web Development**
+* 💻 Passionate about **Programming & Web development**
 * 🌱 Currently learning **Java,Python,Data Structures, data science and Frontend Development**
 * 🚀 Interested in **Open Source Projects**
 * 📚 Improving **Problem Solving Skills**
