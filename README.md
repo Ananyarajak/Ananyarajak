@@ -2,7 +2,7 @@
 <h3 align="center"> data Science learner |  Web Developer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Java%30Developer;B.Tech%20CSE%20Student;Learning%20Data%20Structures;Web%20Development%20Learner&Center=true&width=520&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Java%20Developer;B.Tech%20CSE%20Student;Learning%20Data%20Structures;Web%20Development%20Learner&Center=true&width=520&height=45">
 </p>
 
 ---
