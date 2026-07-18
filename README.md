@@ -1,10 +1,11 @@
 <h1 align="center">Hi👋, I'm Ananya Rajak</h1>
 <h3 align="center"> data Science learner |  Web Developer</h3>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Java%20Developer;B.Tech%20CSE%20Student;Learning%20Data%20Structures;Web%20Development%20Learner&Center=true&width=520&height=45">
-</p>
+<div align="center">
 
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Java%20Developer;B.Tech%20CSE%20Student;Learning%20Data%20Structures;Web%20Development%20Learner&center=true&vCenter=true&width=520&height=45" />
+
+</div>
 ---
 
 ## 👩‍💻 About Me
