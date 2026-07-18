@@ -6,7 +6,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Java%20Developer;B.Tech%20CSE%20Student;Learning%20Data%20Structures;Web%20Development%20Learner&center=true&vCenter=true&width=520&height=45" />
 
 </div>
----
+
 
 ## 👩‍💻 About Me
 
